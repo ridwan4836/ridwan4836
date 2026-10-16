@@ -62,13 +62,6 @@ I enjoy turning ideas into practical applications, exploring new tools, and cont
 
 ---
 
-### GITHUB ANALYTICS
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridwan4836&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridwan4836&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
----
 
 ### CURRENTLY
 
