@@ -6,8 +6,6 @@
 
 I'm an Informatics student interested in software engineering, application development, artificial intelligence, and emerging technologies.
 
-I enjoy turning ideas into practical applications, exploring new tools, and continuously improving my engineering skills through real-world projects.
-
 - 💻 Focused on Web & Mobile Development
 - 🤖 Exploring Artificial Intelligence & Machine Learning
 - ⚙️ Interested in Software Architecture, APIs & Data
