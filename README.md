@@ -66,13 +66,4 @@ I'm an Informatics student interested in software engineering, application devel
 - UI/UX Design
 - Research & Technology Innovation
 
----
-
-### CURRENTLY
-
-- 📱 Developing **COGNIFY**, a gamified adaptive learning mobile app
-- 🏆 Practicing competitive programming for GEMASTIK
-- 🌐 Building campus web projects with Laravel
-- 👨‍🏫 Teaching C++ fundamentals to beginners and sharing UI/UX with Figma
-
 **Think. Build. Iterate.**
